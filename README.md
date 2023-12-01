@@ -1,6 +1,5 @@
 # Intelli-IoT
 
-## Inference
 ### Framework & Library
 * <a href=https://huggingface.co/docs/transformers/main_classes/pipelines#transformers.AutomaticSpeechRecognitionPipeline>PipeLine</a>
 ```python
@@ -9,10 +8,20 @@ pipe("This restaurant is awesome")
 ```
 * <a href=https://developer.nvidia.com/ko-kr/blog/access-the-latest-in-vision-ai-model-development-workflows-with-nvidia-tao-toolkit-5-0-2>NVIDIA TAO</a>
 
+### Service
+* Langchain
+* 3rd party API
+   
+### Model light scheme
+* AutoGPTQ - https://github.com/PanQiWei/AutoGPTQ
+* GPTQ - https://github.com/IST-DASLab/gptq
+* Gpt4all - https://github.com/nomic-ai/gpt4all
+
 ### Edge Model
 * <a href=https://github.com/huggingface/distil-whisper>Distil-Whisper</a>
 * <a href=https://github.com/maxbbraun/whisper-edge>Whisper-Edge</a>
   * Whisper 성능 - https://www.clien.net/service/board/lecture/17699124
+* <a href=https://huggingface.co/microsoft/phi-1_5>MS Phi-1.5</a>
 
 ### Cloud service
 * <a href=https://www.ncloud.com/product/aiService/clovaStudio>Clova</a>
