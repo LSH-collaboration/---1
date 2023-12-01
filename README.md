@@ -24,5 +24,5 @@ pipe("This restaurant is awesome")
 
 
 ### Etc
-> PTQ for LLM
+> PTQ for LLM   
 > 8bit 이면 LLM 추론에 충분하다
