@@ -21,3 +21,8 @@ pipe("This restaurant is awesome")
 ### APIs
 * OpenAI API
 * HyperClovaX API
+
+
+### Etc
+> PTQ for LLM
+> 8bit 이면 LLM 추론에 충분하다
