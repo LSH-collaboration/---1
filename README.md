@@ -26,3 +26,9 @@ pipe("This restaurant is awesome")
 ### Etc
 > PTQ for LLM   
 > 8bit 이면 LLM 추론에 충분하다
+
+* OpenAI chatGPT 음성 기능 https://www.aitimes.com/news/articleView.html?idxno=155407
+* stable diffusion video model https://news.hada.io/topic?id=11971
+* MS SLM 오르카2 https://www.aitimes.com/news/articleView.html?idxno=155371
+* Meta video gen / edit model https://news.hada.io/topic?id=11952
+* Google Music gen model Lyria https://news.hada.io/topic?id=11918
