@@ -12,6 +12,7 @@ pipe("This restaurant is awesome")
 ### Edge Model
 * <a href=https://github.com/huggingface/distil-whisper>Distil-Whisper</a>
 * <a href=https://github.com/maxbbraun/whisper-edge>Whisper-Edge</a>
+  * Whisper 성능 - https://www.clien.net/service/board/lecture/17699124
 
 ### Cloud service
 * <a href=https://www.ncloud.com/product/aiService/clovaStudio>Clova</a>
